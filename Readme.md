@@ -19,3 +19,6 @@ THEN I am again presented with current and future conditions for that city
 
 Mockup sample:
 https://github.com/cvelemen/Weather-Dashboard/blob/main/images/06-server-side-apis-homework-demo.png
+
+
+
